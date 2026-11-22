@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "brasa": {
+      "type": "http",
+      "url": "https://ca-brasa-dev.calmdesert-42ad1cf1.brazilsouth.azurecontainerapps.io/mcp"
+    }
+  }
+}

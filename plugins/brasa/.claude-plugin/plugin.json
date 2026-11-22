@@ -1,0 +1,8 @@
+{
+  "name": "brasa",
+  "version": "1.0.0",
+  "description": "Crie criativos, reels e campanhas de Facebook e Instagram com o Brasa e suba tudo pausado na Meta, conversando com o Claude.",
+  "author": { "name": "Brasa" },
+  "homepage": "https://yellow-meadow-0a2993c0f.5.azurestaticapps.net",
+  "keywords": ["anuncios", "meta-ads", "facebook-ads", "instagram", "criativos", "campanha", "marketing"]
+}

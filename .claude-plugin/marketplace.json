@@ -1,0 +1,14 @@
+{
+  "name": "brasa",
+  "owner": { "name": "Brasa" },
+  "description": "Plugins do Brasa para o Claude Code.",
+  "plugins": [
+    {
+      "name": "brasa",
+      "source": "./plugins/brasa",
+      "description": "Crie criativos, reels e campanhas de Facebook e Instagram com o Brasa e suba tudo pausado na Meta, conversando com o Claude.",
+      "version": "1.0.0",
+      "category": "marketing"
+    }
+  ]
+}
