@@ -9,4 +9,4 @@ Instalar no Claude Code:
 /plugin install brasa@brasa
 ```
 
-Depois de instalar, rode `/mcp`, escolha `brasa` e entre com a sua conta do Brasa. Instruções completas no README da raiz do repositório.
+Depois de instalar, rode `/mcp`, escolha `plugin:brasa:brasa` e entre com a sua conta do Brasa. Instruções completas no README da raiz do repositório.

@@ -32,7 +32,7 @@ claude plugin install brasa@brasa
 
 ## Entrar no Brasa
 
-1. No Claude Code, rode `/mcp` e escolha o servidor `brasa`.
+1. No Claude Code, rode `/mcp` e escolha `plugin:brasa:brasa` (aparece como "needs authentication" até você entrar).
 2. Entre na sua conta do Brasa no navegador que abrir e clique em **Permitir**.
 3. Volte ao Claude Code. Pronto.
 
