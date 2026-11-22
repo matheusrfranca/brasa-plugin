@@ -11,7 +11,7 @@ Você conduz o usuário do material (fotos, anúncio atual, vídeo ou só uma de
 
 Chame `status`.
 
-- **A ferramenta não existe ou deu erro de acesso:** o usuário ainda não entrou no Brasa. Peça para ele rodar `/mcp`, escolher `brasa` e entrar com a conta do Brasa (abre o navegador). Depois continue.
+- **A ferramenta não existe ou deu erro de acesso:** o usuário ainda não entrou no Brasa. Peça para ele rodar `/mcp`, escolher `plugin:brasa:brasa` e entrar com a conta do Brasa (abre o navegador). Depois continue.
 - **Leia a linha "Meta" do status:**
   - conectado, com conta de anúncios e página escolhidas → dá para publicar (para objetivo "vendas" também precisa do pixel);
   - Facebook não conectado, conexão vencida ou conta não escolhida → diga o que falta e mande ele resolver na tela Conta do site (o link "Site" do status, depois `#conta`). Você pode seguir com os criativos enquanto isso;
